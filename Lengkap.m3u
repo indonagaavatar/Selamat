@@ -35,16 +35,16 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/06/10/Piala-Dunia-2026-akan-menjadi-edisi-pertama-3193264271.jpeg", KlanSport 2
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="ediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/06/10/Piala-Dunia-2026-akan-menjadi-edisi-pertama-3193264271.jpeg", TSN 1 HD 
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/06/10/Piala-Dunia-2026-akan-menjadi-edisi-pertama-3193264271.jpeg", TSN 1 HD 🇨🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 #https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/tsn1.m3u8
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/06/10/Piala-Dunia-2026-akan-menjadi-edisi-pertama-3193264271.jpeg", TSN 2 HD 
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/06/10/Piala-Dunia-2026-akan-menjadi-edisi-pertama-3193264271.jpeg", TSN 2 HD 🇨🇦
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6652.ts
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/06/10/Piala-Dunia-2026-akan-menjadi-edisi-pertama-3193264271.jpeg", TSN 3 HD
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/06/10/Piala-Dunia-2026-akan-menjadi-edisi-pertama-3193264271.jpeg", TSN 3 HD 🇨🇦
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6653.ts
 
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/06/10/Piala-Dunia-2026-akan-menjadi-edisi-pertama-3193264271.jpeg", TSN 4 🇨🇦
